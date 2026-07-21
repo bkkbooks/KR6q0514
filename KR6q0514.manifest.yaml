@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0514_000.yaml, hash: 'sha256:9eb828ae82fffac621451af297e22b8c2bad0b13ed0f2817e6c8af94fe1ce76e'}
+  - {seq: 0, filename: KR6q0514_000.yaml, hash: 'sha256:90019cdf1a2db775644c463e0427741eabb7b398a09523df2c5f1dd97e26f0dc'}
   - {seq: 1, filename: KR6q0514_001.yaml, hash: 'sha256:509bbfe2c779368f9c3a024a3cd65708f08cc9f88f657491d50898d28a2805ef'}
   - {seq: 2, filename: KR6q0514_002.yaml, hash: 'sha256:ff24d5b1c3363ff05e66fb6e483718de5f04eea8a9b910dbdee8e1b4c81700d9'}
   - {seq: 3, filename: KR6q0514_003.yaml, hash: 'sha256:9cec45e0f6a408bc18baa3f47a16a192459426d6ce4a79430196242c188e08a1'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0514_005.yaml, hash: 'sha256:872cb95129a3f3b44989f90a0eebcddd58c2efda7462e2f5583abeefe64d7ecd'}
   - {seq: 6, filename: KR6q0514_006.yaml, hash: 'sha256:453296bad4eecbb0e5a91c2b23f69cafa8b169fc3dbfc5007e2844b23180ac6c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0514_000.markers.yaml, hash: 'sha256:36dfa2a30b56c5f9270a7223177f892da7d9677907261edc5e0aa60ea5b63448'}
+  - {seq: 0, role: markers, filename: assets/KR6q0514_000.markers.yaml, hash: 'sha256:2b9cbe8d71b5bd476fb3868715eaba04111c555eeb3eaefc0e40d7b5e560943b'}
   - {seq: 1, role: markers, filename: assets/KR6q0514_001.markers.yaml, hash: 'sha256:48e25a1876a5c09df04a5106a9ae427cbe646fce65cf1107a32deba7f2b80f81'}
   - {seq: 2, role: markers, filename: assets/KR6q0514_002.markers.yaml, hash: 'sha256:fad6867b66f393a9431582057bec7a3497c4f24e9d29af14122bee77eb395ce8'}
   - {seq: 3, role: markers, filename: assets/KR6q0514_003.markers.yaml, hash: 'sha256:79ff6ff54d486e157ac18e246185fbbdd4f58e7825a466e3b9dc1b0d6d0237e8'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0514_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目錄
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0514_J_000-mulu-2
     span:
-    - front
+    - body
     - 114
     - 114
   label: 敘
@@ -1293,7 +1293,7 @@ table_of_contents:
   label: 山居雜詠
   type: mulu
   level: 1
-hash: sha256:beb6621c8440f25c9e042fd45f2ccc11dad96eb0d848efe07fbb196b374e0370
+hash: sha256:25a702173fa1465ff9720b1b39b211af2745940ea3e8e0b4f4fbf9dcd54fa478
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
